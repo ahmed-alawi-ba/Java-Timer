@@ -14,5 +14,5 @@ This is a small basic JAVA timer. To try to test out the speed efficiency of the
 
 <br/><br/>
 
-<img src="screenshots/java-timer-2.JPGg"></a>
+<img src="screenshots/java-timer-2.JPG"></a>
 <br/>
